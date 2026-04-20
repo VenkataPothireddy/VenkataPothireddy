@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Venkata Pothireddy</h1>
-<h3 align="center">Data Engineer at BILH</h3>
+<h3 align="center">Data Engineer</h3>
 
 - 🔭 Currently building **real-time clinical data pipelines** at BILH
 
