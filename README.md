@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Venkata Pothireddy</h1>
 <h3 align="center">Data Engineer at BILH</h3>
 
-- 🔭 I'm currently working on **Wiring up real-time clinical data flows**
+- 🔭 Currently building **real-time clinical data pipelines** at BILH
 
-- 🌱 I'm currently learning **Microsoft Fabric, BigQuery, and the surprisingly deep rabbit hole of how food and movement actually affect your mood**
+- 🌱 Learning **Microsoft Fabric, BigQuery, and how food affects your mood**
 
-- 👯 I'm looking to collaborate on **Open source data tooling, dbt packages, or anything at the intersection of data engineering and ML pipelines**
+- 👯 Open to collaborating on **dbt packages, open-source data tooling, or ML pipelines**
 
-- 🤝 I'm looking for help with **Turning a wellness app idea that's been living in my head into something real — I know what the data layer looks like, just need to stop overthinking and start building**
+- 🤝 Working on **turning a wellness app idea into something real**
 
-- 💬 Ask me about **Lakehouse architecture, Databricks pipelines, dimensional modeling, or how I structure my workout split around a 9-to-5**
+- 💬 Ask me about **Lakehouse architecture, Databricks, dimensional modeling**
 
-- 📫 How to reach me **VenkataPothireddy001@gmail.com**
+- 📫 Reach me at **VenkataPothireddy001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DrubIHHYmkcRde_qe9bCbQInVoDC13rW/view?usp=drive_link](https://drive.google.com/file/d/1DrubIHHYmkcRde_qe9bCbQInVoDC13rW/view?usp=drive_link)
+- 📄 [Resume](https://drive.google.com/file/d/1DrubIHHYmkcRde_qe9bCbQInVoDC13rW/view?usp=drive_link)
 
 - ⚡ Fun fact **I make homemade granola and I'm building out a home gym**
 
@@ -23,4 +23,19 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a></p>
+
+<table><tr>
+<td align="center"><a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a></td>
+<td align="center"><a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a></td>
+<td align="center"><a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></td>
+<td align="center"><a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a></td>
+<td align="center"><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></td>
+<td align="center"><a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a></td>
+<td align="center"><a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a></td>
+<td align="center"><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></td>
+<td align="center"><a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a></td>
+<td align="center"><a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a></td>
+<td align="center"><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></td>
+<td align="center"><a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a></td>
+<td align="center"><a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a></td>
+</tr></table>
