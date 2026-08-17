@@ -13,8 +13,6 @@
 
 - 📫 Reach me at **VenkataPothireddy001@gmail.com**
 
-- 📄 [Resume](https://drive.google.com/file/d/1DrubIHHYmkcRde_qe9bCbQInVoDC13rW/view?usp=drive_link)
-
 - ⚡ Fun fact **I make homemade granola and I'm building out a home gym**
 
 <h3 align="left">Connect with me:</h3>
